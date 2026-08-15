@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |

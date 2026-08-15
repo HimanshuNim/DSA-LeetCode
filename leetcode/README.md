@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0263-ugly-number) |
+| [2571-find-the-pivot-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2571-find-the-pivot-integer) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 ## Newton's Method
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->

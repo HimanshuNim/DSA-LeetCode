@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0001-two-sum) |
+| [0015-3sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |

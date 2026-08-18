@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
+| [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
+| [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [2571-find-the-pivot-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2571-find-the-pivot-integer) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 ## Newton's Method
@@ -79,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0190-reverse-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 <!---LeetCode Topics End-->

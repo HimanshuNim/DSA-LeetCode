@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |

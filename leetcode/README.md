@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 ## Minimax
 |  |

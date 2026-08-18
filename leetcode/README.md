@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 ## Geometry
@@ -113,4 +115,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

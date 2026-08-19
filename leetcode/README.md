@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0189-rotate-array) |
+| [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -134,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->

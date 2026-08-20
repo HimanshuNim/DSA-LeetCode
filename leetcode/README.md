@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 ## Math
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [2571-find-the-pivot-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2571-find-the-pivot-integer) |
 ## Bit Manipulation
 |  |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

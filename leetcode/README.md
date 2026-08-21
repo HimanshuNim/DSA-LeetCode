@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0940-fruit-into-baskets) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->

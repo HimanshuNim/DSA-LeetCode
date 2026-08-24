@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 | [2571-find-the-pivot-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2812-find-the-maximum-achievable-number) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
@@ -109,18 +110,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 ## Quicksort
 |  |
 | ------- |
@@ -170,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0231-power-of-two) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 <!---LeetCode Topics End-->

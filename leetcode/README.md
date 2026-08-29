@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0051-n-queens) |
 | [0075-sort-colors](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |

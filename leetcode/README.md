@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0940-fruit-into-baskets) |
+| [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 ## Geometry
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+| [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
